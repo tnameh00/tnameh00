@@ -16,7 +16,7 @@ Rebuilding foundations deliberately. There's a difference between *can ship a mo
 
 **[materials-gnn-foundations](https://github.com/tnameh00/materials-gnn-foundations)** is a 12-week self-directed curriculum: implement autograd by hand, build message passing in numpy before touching PyG, learn enough chemistry to understand why the data looks the way it does. Then train a GNN that predicts material properties from real Materials Project data. Documenting the hard parts publicly as I go.
 
-→ [Read the journey logs](/journey) · Start with [Week 0: Before I Begin](https://github.com/tnameh00/materials-gnn-foundations/tree/main/journey/journey-week0.md)
+→ [Read the journey logs](https://github.com/tnameh00/materials-gnn-foundations/tree/main/journey) · Start with [Week 0: Before I Begin](https://github.com/tnameh00/materials-gnn-foundations/tree/main/journey/journey-week0.md)
 
 ### What I'm building toward
 
