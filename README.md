@@ -1,8 +1,10 @@
 # H.S
 
-Engineer with a decade of production experience, currently going deep on AI/ML.
+10+ years across software engineering, business operations, and business intelligence — currently focused on ML/AI systems and agents. Over the past 2–3 years: building and deploying production ML solutions, going deeper on the underlying machinery, and developing the judgment to know which problems are worth the investment.
 
-Computer Science Engineering + MBA + MS Business Analytics. Over a decade shipping real-world solutions — from custom customer master platforms on Databricks to daily Python/SQL pipelines, regression/XGBoost models, model serving, and agent workflows.
+Computer Science Engineering · MBA + MS in Business Analytics · 
+
+Leading team while staying hands-on with Python, SQL, Tableau, and Databricks.
 
 ---
 
@@ -39,6 +41,15 @@ AI/ML engineering depth — agents, ML systems, LLM infrastructure. The kind of 
 **Currently Learning** *(materials GNN side project)*
 - Graph neural networks · networkx → PyG · pymatgen · Materials Project API · Weights & Biases
 
+---
+### How I think about AI
+
+The risk of deep AI learning isn't getting pigeonholed as an engineer. The risk is learning it without anchoring to business context and judgment.
+Three lenses I apply to any AI project before writing line one:
+
+- **Is it worth building?** Data moat, defensibility, cost vs. value. Most AI pilots fail here, not in the model.
+- **Can it be trusted?** Where does it fail silently vs. loudly? Production ML breaks in ways that don't show up in eval metrics.
+- **Can it scale?** Compute efficiency, maintainability, who owns it when the project champion leaves.
 
 ---
 
