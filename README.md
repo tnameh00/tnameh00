@@ -47,7 +47,6 @@ Three lenses I apply to any AI project before writing line one:
 **Currently Learning** *(materials GNN side project)*
 - Graph neural networks · networkx → PyG · pymatgen · Materials Project API · Weights & Biases
 
-
 ---
 
 ### Writing
